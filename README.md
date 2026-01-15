@@ -6,12 +6,11 @@ This project demonstrates automated deployment of a Java WAR application
 to Apache Tomcat using Jenkins CI/CD pipeline.
 The goal is to eliminate manual deployment and achieve continuous deployment through Jenkins.
 
-
-## Tools Used
-- Jenkins
-- Apache Tomcat 9
-- Git & GitHub
-- Linux (Ubuntu)
+## Tools & Technologies Used
+- AWS EC2 – Ubuntu Linux server
+- Jenkins – CI/CD pipeline automation
+- Apache Tomcat 9 – Application server
+- Git & GitHub – Source code management
 
 
 <img width="1536" height="1024" alt="Automated WAR deployment flowchart" src="https://github.com/user-attachments/assets/c8664f12-0208-4aba-a881-d49edbeddf4f" />
