@@ -14,6 +14,9 @@ The goal is to eliminate manual deployment and achieve continuous deployment thr
 - Linux (Ubuntu)
 
 
+<img width="1536" height="1024" alt="Automated WAR deployment flowchart" src="https://github.com/user-attachments/assets/c8664f12-0208-4aba-a881-d49edbeddf4f" />
+
+
 ## Steps Involved
 
 1. Install Jenkins and Apache Tomcat on Ubuntu server
@@ -52,8 +55,3 @@ To receive email alerts when Jenkins build or auto deployment fails.
 5. Configure Post-build action → Email Notification
 
 6. Test configuration by triggering build failure
-
-
-
-
-
