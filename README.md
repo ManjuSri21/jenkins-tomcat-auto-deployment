@@ -9,7 +9,7 @@ The goal is to eliminate manual deployment and achieve continuous deployment thr
 ## Tools & Technologies Used
 - AWS EC2 – Ubuntu Linux server
 - Jenkins – CI/CD pipeline automation
-- Apache Tomcat 9 – Application server
+- Apache Tomcat 9 – Web Application server
 - Git & GitHub – Source code management
 
 
